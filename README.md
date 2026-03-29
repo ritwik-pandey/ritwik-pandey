@@ -46,6 +46,54 @@
 
 ---
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Project 1: GlobeQuest -->
+    <td width="50%" valign="top" style="border: none; padding: 10px 20px;">
+      <h3 align="center">🌍 GlobeQuest</h3>
+      <p align="center"><i>Interactive geography learning web app</i></p>
+      <br>
+      
+      <p>
+        ⚛️ <b>Tech:</b> React-based interactive UI <br><br>
+        🎯 Focused on high engagement & usability <br><br>
+        🚀 Smooth, highly responsive user experience
+      </p>
+      
+      <br>
+      <div align="center">
+        <a href="https://your-link.com" target="_blank">
+          <img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+
+    <!-- Project 2: LeetCode Extension -->
+    <td width="50%" valign="top" style="border: none; padding: 10px 20px;">
+      <h3 align="center">🔌 LeetCode Extension</h3>
+      <p align="center"><i>Browser extension for productivity</i></p>
+      <br>
+      
+      <p>
+        ⚡ Enhances problem-solving workflow <br><br>
+        🧠 Clean UI for distraction-free coding <br><br>
+        🛠️ <b>Tech:</b> Built with Vanilla JS & Chrome APIs
+      </p>
+      
+      <br>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Under Review" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer" width="100%"/>
