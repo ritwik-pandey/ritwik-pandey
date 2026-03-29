@@ -1,3 +1,4 @@
+<br/>
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:007CF0&height=220&section=header&text=Ritwik%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
@@ -45,40 +46,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌍 GlobeQuest  
-> Interactive geography-based web application  
-- Built with React & modern UI concepts  
-- Focused on engaging learning experience  
-- 🔗 https://your-link-here
-
----
-
-### 📅 Smart Timetable  
-> Productivity tool for students  
-- Personalized scheduling system  
-- Helps manage academic + personal tasks  
-- 🔗 https://your-link-here
-
----
-
-### 🔌 LeetCode Extension  
-> Browser extension to enhance coding workflow  
-- Improves productivity while solving problems  
-- Clean UI + useful features  
-- 🔗 (Chrome Web Store link after approval)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwik-pandey&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik-pandey&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritwik-pandey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik-pandey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer" width="100%"/>
+</p>
