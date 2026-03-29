@@ -55,7 +55,7 @@
         🎯 High engagement & usability <br/>
         🚀 Smooth responsive UI
       </p>
-      <a href="https://your-link.com">
+      <a href="https://globequest.onrender.com/lobby">
         <img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -68,9 +68,7 @@
   🧠 Clean UI <br/>
   🛠️ <b>Tech:</b> JavaScript, Chrome APIs
   </p>
-  <a href="#">
-  <img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+    </a>
   </td>
   </tr>
 </table>
