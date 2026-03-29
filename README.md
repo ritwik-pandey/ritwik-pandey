@@ -37,40 +37,59 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nextjs,nodejs,express,mongodb,html,css,tailwind,vite,postman,git,github,vscode&perline=7" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td align="center">
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,nextjs,nodejs,express,mongodb,html,css,tailwind,vite,postman,git,github,vscode&perline=7" />
+<br/><br/>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🌍 GlobeQuest</h3>
-      <p><i>Interactive geography learning web app</i></p>
-      <p align="left">
-        ⚛️ <b>Tech:</b> React <br/>
-        🎯 High engagement & usability <br/>
-        🚀 Smooth responsive UI
-      </p>
-      <a href="https://globequest.onrender.com/lobby">
-        <img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>🌍 GlobeQuest</h3>
+<p><i>Interactive geography learning web app</i></p>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<br/>
+<p align="left">
+🎯 High engagement & usability <br/>
+🚀 Smooth responsive UI
+</p>
+<br/>
+<a href="https://your-link.com">
+<img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</td>
 
-  <td width="50%" align="center" valign="top">
-  <h3>🔌 LeetCode Extension</h3>
-  <p><i>Browser extension for productivity</i></p>
-  <p align="left">
-  ⚡ Improves workflow <br/>
-  🧠 Clean UI <br/>
-  🛠️ <b>Tech:</b> JavaScript, Chrome APIs
-  </p>
-    </a>
-  </td>
-  </tr>
+<td width="50%" align="center" valign="top">
+<h3>🔌 LeetCode Extension</h3>
+<p><i>Browser extension for productivity</i></p>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Chrome_APIs-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
+<br/>
+<p align="left">
+⚡ Improves workflow <br/>
+🧠 Clean UI
+</p>
+<br/>
+<a href="#">
+<img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</td>
+</tr>
 </table>
 
 <p align="center">
