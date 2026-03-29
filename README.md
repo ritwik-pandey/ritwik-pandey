@@ -28,21 +28,15 @@
 
 ---
 
-<!-- ABOUT -->
 ## 👨‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="220"/>
 
 - 🔭 Building **scalable web applications**
 - 🌱 Exploring **advanced frontend architectures**
-- 👯 Open to **collaboration & open source**
+- 👯 Open to **open-source collaboration**
 - ⚡ I enjoy turning **complex problems into clean UI**
-
-<br clear="right"/>
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -51,7 +45,32 @@
 
 ---
 
-<!-- GITHUB STATS -->
+## 🚀 Featured Projects
+
+### 🌍 GlobeQuest  
+> Interactive geography-based web application  
+- Built with React & modern UI concepts  
+- Focused on engaging learning experience  
+- 🔗 https://your-link-here
+
+---
+
+### 📅 Smart Timetable  
+> Productivity tool for students  
+- Personalized scheduling system  
+- Helps manage academic + personal tasks  
+- 🔗 https://your-link-here
+
+---
+
+### 🔌 LeetCode Extension  
+> Browser extension to enhance coding workflow  
+- Improves productivity while solving problems  
+- Clean UI + useful features  
+- 🔗 (Chrome Web Store link after approval)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -61,12 +80,5 @@
 
 ---
 
-<!-- STREAK -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik-pandey&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
-<!-- OPTIONAL FOOTER -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer"/>
