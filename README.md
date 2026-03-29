@@ -95,16 +95,13 @@
 🧠 Clean UI
 </p>
 <br/>
-<a href="#">
-<img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 </td>
 </tr>
 </table>
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ritwik-pandey-817b571a9">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
