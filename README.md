@@ -46,11 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<img src="https://gh-stats-gen.vercel.app/api?username=ritwik-pandey&theme=tokyonight" />
-
----
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer" width="100%"/>
