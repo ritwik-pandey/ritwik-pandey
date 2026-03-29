@@ -1,17 +1,14 @@
 <br/>
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:007CF0&height=220&section=header&text=Ritwik%20Pandey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
 ---
 
-<!-- TYPING TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Crafting+Clean+UI%2FUX;Exploring+New+Technologies" />
 </p>
 
 ---
 
-<!-- SOCIALS -->
 <p align="center">
   <a href="https://project-7n9wv.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -27,7 +24,7 @@
   </a>
 </p>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -36,7 +33,7 @@
 -  Open to **open-source collaboration**
 -  I enjoy **problem solving**
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -45,45 +42,39 @@
 </p>
 
 <br/>
-<h3 align="center">🚀 Featured Projects</h3>
+
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
-    <!-- GlobeQuest -->
     <td width="50%" align="center" valign="top">
       <h3>🌍 GlobeQuest</h3>
       <p><i>Interactive geography learning web app</i></p>
-
       <p align="left">
         ⚛️ <b>Tech:</b> React <br/>
         🎯 High engagement & usability <br/>
         🚀 Smooth responsive UI
       </p>
-
       <a href="https://your-link.com">
         <img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
 
-    <!-- LeetCode Extension -->
-    <td width="50%" align="center" valign="top">
-      <h3>🔌 LeetCode Extension</h3>
-      <p><i>Browser extension for productivity</i></p>
-
-      <p align="left">
-        ⚡ Improves workflow <br/>
-        🧠 Clean UI <br/>
-        🛠️ <b>Tech:</b> JavaScript, Chrome APIs
-      </p>
-
-      <a href="#">
-        <img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-      </a>
-    </td>
+  <td width="50%" align="center" valign="top">
+  <h3>🔌 LeetCode Extension</h3>
+  <p><i>Browser extension for productivity</i></p>
+  <p align="left">
+  ⚡ Improves workflow <br/>
+  🧠 Clean UI <br/>
+  🛠️ <b>Tech:</b> JavaScript, Chrome APIs
+  </p>
+  <a href="#">
+  <img src="https://img.shields.io/badge/Coming_Soon-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  </td>
   </tr>
 </table>
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:20B2AA&height=120&section=footer" width="100%"/>
 </p>
