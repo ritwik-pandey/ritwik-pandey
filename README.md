@@ -31,10 +31,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **scalable web applications**
-- 🌱 Exploring **advanced frontend architectures**
-- 👯 Open to **open-source collaboration**
-- ⚡ I enjoy turning **complex problems into clean UI**
+-  Building **scalable web applications**
+-  Exploring **advanced frontend architectures**
+-  Open to **open-source collaboration**
+-  I enjoy **problem solving**
 
 ---
 
@@ -47,11 +47,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwik-pandey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik-pandey&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-</p>
+<img src="https://gh-stats-gen.vercel.app/api?username=ritwik-pandey&theme=tokyonight" />
 
 ---
 
