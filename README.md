@@ -26,7 +26,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 
 -  Building **scalable web applications**
 -  Exploring **advanced frontend architectures**
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table align="center" width="100%">
 <tr>
@@ -60,44 +60,13 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects  
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-<h3>🌍 GlobeQuest</h3>
-<p><i>Interactive geography learning web app</i></p>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-<br/>
-<p align="left">
-🎯 High engagement & usability <br/>
-🚀 Smooth responsive UI
-</p>
-<br/>
-<a href="https://your-link.com">
-<img src="https://img.shields.io/badge/View_Live_App-212121?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
+- **[GlobeQuest](https://github.com/ritwik-pandey/globequest)**  
+  Interactive geography learning app built with React. Designed for engaging learning, clean UI, and smooth performance.  
 
-<td width="50%" align="center" valign="top">
-<h3>🔌 LeetCode Extension</h3>
-<p><i>Browser extension for productivity</i></p>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-<br/>
-<p align="left">
-⚡ Improves workflow <br/>
-🧠 Clean UI
-</p>
-<br/>
-</td>
-</tr>
-</table>
+- **[LeetCode Extension](https://github.com/ritwik-pandey/leetcode-extension)**  
+  Productivity-focused browser extension built with JavaScript and Chrome APIs to improve coding workflow. *(Under review)*  
 
 ## 🤝 Connect With Me
 
